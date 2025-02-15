@@ -1,0 +1,1 @@
+print('Lectures are bad')
